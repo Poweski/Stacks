@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class TwoStackQueue<T> {
+public class TwoStacksQueue<T> {
     private final Stack<T> inStack = new Stack<>();
     private final Stack<T> outStack = new Stack<>();
 
